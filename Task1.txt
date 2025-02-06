@@ -1,0 +1,5 @@
+1. Project planning
+2. Project development
+3. Project test plan
+4. Project test case design
+5. Test case execution
